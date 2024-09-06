@@ -1,4 +1,4 @@
-# Klasifikace motýlu
+# Klasifikace motýlů
 Projekt semestrální práce předmětu Praktické aplikace strojového učení - 30.1.2024
 
 Cílem projektu je natrénovat model, který by byl schopný podle obrázku klasifikovat motýly a identifikovat třídu, do které patří. 
